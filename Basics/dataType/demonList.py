@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #@Time      : 2018/3/19 14:07
 #@Author    : Liyuntian
-#@File      : deamonList.py
+#@File      : demonList.py
 
 l =[1,2,3,3.141592653,'a','b','c',True,{"name":"liyuntian"}]
 print(l)
